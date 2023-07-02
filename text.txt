@@ -1,1 +1,1 @@
-https://api.github.com/users/sadikturan
+https://api.github.com/users/berkeguleryuz
